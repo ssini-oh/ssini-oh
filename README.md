@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 백엔드 개발자 오누리입니다
+# 👋 안녕하세요, 오누리입니다
 
 > 기획자 경험을 바탕으로 **사용자 관점에서 문제를 바라보는 능력**을 갖춘 백엔드 개발자입니다.  
 > 팀 협업을 통해 **실시간 통신 기반 멀티플레이어 게임 서버**를 구축한 경험이 있습니다.
@@ -32,6 +32,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ### Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,7 +52,7 @@
 ## 📌 주요 프로젝트
 
 ### 🤖 [VocAI - AI 면접 준비 서비스](https://github.com/team-VOCAI/vocai-app)
-> **팀 프로젝트** | Next.js, Google Gemini, ElevenLabs, Prisma, PostgreSQL
+> **3인 팀 프로젝트** | Next.js, Google Gemini, ElevenLabs, Prisma, PostgreSQL
 
 Google Gemini와 ElevenLabs를 활용한 AI 면접 준비 웹 애플리케이션
 
@@ -94,13 +98,3 @@ TCP 기반 실시간 멀티플레이어 타워디펜스 게임 서버
 - **스파르타 Node.js 내일배움캠프** | 2024.11 - 2025.03
   - **팀 최우수상** 수상
   - 멀티플레이어 게임 서버 개발 (WebSocket, TCP)
-
-<br>
-
----
-
-<div align="center">
-
-**새로운 도전을 두려워하지 않고 끊임없이 배우며 성장하는 개발자입니다.**
-
-</div>
